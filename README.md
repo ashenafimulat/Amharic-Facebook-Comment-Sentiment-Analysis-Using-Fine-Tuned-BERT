@@ -1,0 +1,2 @@
+# Amharic-Facebook-Comment-Sentiment-Analysis-Using-Fine-Tuned-BERT
+This repository contains the code and resources for a sentiment analysis project focused on Amharic Facebook comments. The project leverages a fine-tuned BERT (Bidirectional Encoder Representations from Transformers) model to classify the sentiment of comments as strongly positive, positive, strongly negative, negative, or neutral.
